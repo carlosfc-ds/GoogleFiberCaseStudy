@@ -15,10 +15,8 @@ This repository contains a business intelligence case study focused on analyzing
 - [ETL Pipeline](#etl-pipeline)
 - [Dashboard Design](#dashboard-design)
 - [Key Insights & Recommendations](#key-insights--recommendations)
-- [Getting Started](#getting-started)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ---
@@ -102,31 +100,23 @@ This repository contains a business intelligence case study focused on analyzing
   - Monitor first-call resolution KPIs alongside repeat call volume to measure progress
 
 ---
-
-## Getting Started
-1. Clone this repository:
-
 ## Project Structure
+
+```bash
 /
 ├── data/ # Raw and sample data files
 ├── docs/ # Stakeholder requirements and documentation
 ├── schemas/ # Data schema definitions
 ├── etl/ # ETL scripts and notebooks
 ├── dashboard/ # Dashboard files, screenshots, and guides
-├── requirements.txt # Dependencies
 └── README.md # This file
+```
 
 ---
 
 ## Contributing
 
 Contributions are welcome! Please submit issues or pull requests to suggest improvements, bug fixes, or new features.
-
----
-
-## License
-
-This project is licensed under the MIT License.
 
 ---
 
