@@ -63,7 +63,6 @@ This repository contains a business intelligence case study focused on analyzing
 
 - **Entities:** Customer, Market, Problem Type, Contact Event
 - **Relationships:** Each contact event is linked to a customer, market, and problem type
-- **Schema Documentation:** See `/schemas/` for ERD and JSON schema definitions
 
 ---
 
@@ -106,9 +105,8 @@ This repository contains a business intelligence case study focused on analyzing
 /
 ├── data/ # Raw and sample data files
 ├── docs/ # Stakeholder requirements and documentation
-├── schemas/ # Data schema definitions
-├── etl/ # ETL scripts and notebooks
-├── dashboard/ # Dashboard files, screenshots, and guides
+├── etl/ # ETL scripts
+├── dashboard/ # Dashboard files
 └── README.md # This file
 ```
 
